@@ -1,4 +1,5 @@
-[![MasterHead]https://www.labkod.com/upload/medya/Export_4_2.jpg
+[![MasterHead](https://www.labkod.com/upload/medya/Export_4_2.jpg)
+
 <h1 align="center">Hi 👋, I'm Taner</h1>
 <h3 align="center">Student at Sakarya University</h3>
 
